@@ -1,4 +1,4 @@
-def speak_to_grandma(pharse)
+def speak_to_grandma (pharse)
   if pharse == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TO PUMPKIN!"
     elsif pharse == pharse.upcase
